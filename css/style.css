@@ -1,4 +1,4 @@
-.blu-banner {
+.banner-blu {
     background-image: url('https://www.digitalocean.com/assets/media/homepage/bg-home-1-d54581d7.jpg');
     background-size: cover;
 }
@@ -26,4 +26,12 @@ h1 {
 
 .jumbotron p {
     color: blue;
+}
+
+.loghi img {
+    height: 100px;
+}
+
+.linker a {
+    color: #0794fc;
 }
