@@ -1,5 +1,29 @@
+.blu-banner {
+    background-image: url('https://www.digitalocean.com/assets/media/homepage/bg-home-1-d54581d7.jpg');
+    background-size: cover;
+}
 
-.bau p {
-    color: orange;
-    margin-top: 200px;
+.testo {
+    padding-right: 100px;
+}
+
+h1 {
+    font-weight: 600;
+    color: white;
+    padding-top: 80px;
+    font-size: 52px;
+}
+
+.testo p {
+    font-size: 20px;
+    color: #ccdaff;
+    padding: 20px 0;
+}
+
+.jumbotron {
+    background-color: white;
+}
+
+.jumbotron p {
+    color: blue;
 }
