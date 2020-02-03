@@ -43,3 +43,13 @@ h1 {
 .linker {
     margin-bottom: 50px;
 }
+
+.deploy h2 {
+    color: #031b4e;
+    font-size: 36px;
+}
+
+.deploy p {
+    color: #696285;
+    font-size: 20px;
+}
