@@ -51,17 +51,39 @@ h1 {
     font-size: 36px;
 }
 
-.deploy p {
+.deploy .titolo p {
     color: #696285;
     font-size: 20px;
 }
 
 .deploy ul {
     list-style: none;
-    padding-top: 20px;
+    padding-top: 60px;
 }
 
 .deploy li {
     font-size: 20px;
     padding-top: 10px;
+}
+
+.deploy li:hover {
+    cursor: pointer;
+    color: #221b4e;
+}
+
+.deploy .ciao {
+    padding-top: 60px;
+    margin-bottom: 30px;
+}
+
+.deploy i {
+    color: #0069ff;
+}
+
+.deploy .ciao h3 {
+    color: #221b4e;
+}
+
+.deploy .ciao p {
+    color: #59628a;
 }
