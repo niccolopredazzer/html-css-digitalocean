@@ -28,10 +28,18 @@ h1 {
     color: blue;
 }
 
+.banner-grigio {
+    background-color: #f3f5f9;
+}
+
 .loghi img {
     height: 100px;
 }
 
 .linker a {
     color: #0794fc;
+}
+
+.linker {
+    margin-bottom: 50px;
 }
