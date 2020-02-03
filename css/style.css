@@ -36,11 +36,13 @@ h1 {
     height: 100px;
 }
 
+
 .linker a {
     color: #0794fc;
 }
 
 .linker {
+    padding-top: 10px;
     margin-bottom: 50px;
 }
 
@@ -52,4 +54,14 @@ h1 {
 .deploy p {
     color: #696285;
     font-size: 20px;
+}
+
+.deploy ul {
+    list-style: none;
+    padding-top: 20px;
+}
+
+.deploy li {
+    font-size: 20px;
+    padding-top: 10px;
 }
