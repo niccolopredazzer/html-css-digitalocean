@@ -133,8 +133,22 @@ h1 {
 .banner-grigio-secondo p {
     font-size: 20px;
     color: #4e5f93;
+    padding-bottom: 30px;
 }
 
-.banner-grigio-secondo .immagine-demo {
+.banner-grigio-secondo .immagine-demo img {
     border-radius: 5px;
+    padding-bottom: 30px;
+}
+
+.banner-grigio-secondo .immagine-demo img:hover {
+    cursor: grab;
+}
+
+.banner-grigio-secondo li {
+    color: #0069ff;
+}
+
+.banner-grigio-secondo li:hover {
+    cursor: pointer;
 }
