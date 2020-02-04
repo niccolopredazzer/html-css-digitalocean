@@ -254,3 +254,11 @@ h1 {
     padding-top: 50px;
     margin-bottom: 80px;
 }
+
+.development li:hover {
+    cursor: pointer;
+}
+
+.development img:hover {
+    cursor: grab;
+}
