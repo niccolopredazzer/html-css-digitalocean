@@ -287,6 +287,7 @@ footer p {
 footer ul {
     list-style: none;
     margin-top: 80px;
+
 }
 
 footer li {
@@ -297,4 +298,9 @@ footer li {
 footer li:hover {
     color: white;
     cursor: pointer;
+}
+
+footer .contatti {
+    margin-top: 80px;
+    border-top: 1px solid #786857;
 }
