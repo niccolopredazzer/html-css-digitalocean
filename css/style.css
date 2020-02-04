@@ -249,7 +249,7 @@ h1 {
     color: #0069ff;
 }
 
-.development li {
+.development li  {
     color: #808794;
     padding-top: 50px;
     margin-bottom: 80px;
@@ -261,6 +261,12 @@ h1 {
 
 .development img:hover {
     cursor: grab;
+}
+
+.development span {
+    font-size: 40px;
+    position: relative;
+    top: 140px;
 }
 
 .banner-blu .testo-tre h2 {
