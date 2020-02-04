@@ -223,3 +223,28 @@ h1 {
     margin-right: 5px;
     padding-top: 15px;
 }
+
+.data-center .inferno {
+    margin-bottom: 80px;
+}
+
+.development {
+    background-color: #f3f5f9;
+}
+
+.development .titolo h2 {
+    font-size: 36px;
+    color: #031b4e;
+    padding-top: 80px;
+}
+
+.development .titolo p {
+    font-size: 20px;
+    color: #4e5f83;
+    padding-top: 50px;
+    padding-bottom: 30px;
+}
+
+.development a {
+    color: #0069ff;
+}
