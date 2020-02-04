@@ -130,7 +130,13 @@ h1 {
     color: #031b4e;
 }
 
-.banner-grigio-secondo p {
+.banner-grigio-secondo p:first-child {
+    font-size: 16px;
+    color: #4e5f93;
+    padding-bottom: 30px;
+}
+
+.banner-grigio-secondo p:last-child {
     font-size: 20px;
     color: #4e5f93;
     padding-bottom: 30px;
@@ -147,8 +153,36 @@ h1 {
 
 .banner-grigio-secondo li {
     color: #0069ff;
+    margin-bottom: 80px;
 }
 
 .banner-grigio-secondo li:hover {
     cursor: pointer;
+}
+
+.business h2 {
+    font-size: 36px;
+    font-weight: 400;
+    line-height: 1.25;
+    color: #031b4e;
+    padding-top: 80px;
+    padding-bottom: 30px;
+}
+
+.business h3 {
+    color: #031b4e;
+}
+
+.business p {
+    color: rgba(3,27,78,.7);
+    font-size: 16px;
+}
+
+.business .mini-logo i {
+    color: #0069ff;
+    font-size: 30px;
+}
+
+.business a {
+    padding-bottom: 20px;
 }
