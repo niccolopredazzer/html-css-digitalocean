@@ -250,7 +250,7 @@ h1 {
 }
 
 .development li {
-    color: #0069ff;
+    color: #808794;
     padding-top: 50px;
     margin-bottom: 80px;
 }
@@ -303,4 +303,26 @@ footer li:hover {
 footer .contatti {
     margin-top: 80px;
     border-top: 1px solid #786857;
+}
+
+.contatti p {
+    padding-top: 80px;
+    margin-bottom: 120px;
+}
+
+footer .contatti ul {
+    list-style: none;
+    margin-bottom: 120px;
+}
+
+footer .contatti li {
+    font-size: 20px;
+}
+
+footer .contatti a {
+    color: #808794;
+}
+
+footer .contatti a:hover {
+    color: white;
 }
