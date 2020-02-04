@@ -97,12 +97,12 @@ h1 {
 .deploy li:hover {
     cursor: pointer;
     color: #221b4e;
-    border-left: 1px solid black;
+    border-left: 1px solid #0069ff;
 }
 
 .deploy .ciao {
     padding-top: 30px;
-    margin-bottom: 30px;
+    margin-bottom: 50px;
 }
 
 .deploy i {
@@ -116,4 +116,25 @@ h1 {
 
 .deploy .ciao p {
     color: #59628a;
+}
+
+.banner-grigio-secondo {
+    background-color: #f3f5f9;
+}
+
+.banner-grigio-secondo h2 {
+    font-size: 36px;
+    font-weight: 400;
+    line-height: 1.25;
+    padding-top: 80px;
+    color: #031b4e;
+}
+
+.banner-grigio-secondo p {
+    font-size: 20px;
+    color: #4e5f93;
+}
+
+.banner-grigio-secondo .immagine-demo {
+    border-radius: 5px;
 }
