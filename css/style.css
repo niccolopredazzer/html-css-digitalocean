@@ -184,5 +184,22 @@ h1 {
 }
 
 .business a {
-    padding-bottom: 20px;
+    margin-bottom: 50px;
+    color: #0069ff;
+}
+
+.data-center {
+    background-color: #031b4e;
+    background-image: url("https://www.digitalocean.com/assets/media/homepage/data-center-map-20321538.svg");
+    background-position: 50%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-top: 80px;
+}
+
+.data-center h2 {
+    color: white;
+    font-size: 36px;
+    padding-top: 80px;
+    margin-bottom: 60px;
 }
