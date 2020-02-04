@@ -1,3 +1,6 @@
+body {
+    font-family: 'Roboto', sans-serif;
+}
 .banner-blu {
     background-image: url('https://www.digitalocean.com/assets/media/homepage/bg-home-1-d54581d7.jpg');
     background-size: cover;
@@ -5,6 +8,7 @@
 
 .testo {
     padding-right: 100px;
+    margin-top: 90px;
 }
 
 h1 {
@@ -22,6 +26,7 @@ h1 {
 
 .jumbotron {
     background-color: white;
+    margin-top: 90px;
 }
 
 .jumbotron p {
@@ -32,9 +37,20 @@ h1 {
     background-color: #f3f5f9;
 }
 
+.banner-grigio .text-center {
+    margin-top: 70px;
+}
+
+.banner-grigio h2 {
+    font-size: 14px;
+    color: #99a3b8;
+}
+
 .loghi img {
     height: 100px;
+    object-fit: contain;
 }
+
 
 
 .linker a {
@@ -44,6 +60,10 @@ h1 {
 .linker {
     padding-top: 10px;
     margin-bottom: 50px;
+}
+
+.deploy {
+    padding-top: 80px;
 }
 
 .deploy h2 {
@@ -56,28 +76,38 @@ h1 {
     font-size: 20px;
 }
 
+.deploy .barra-laterale {
+
+    padding-top: 30px;
+}
+
 .deploy ul {
     list-style: none;
-    padding-top: 60px;
 }
 
 .deploy li {
     font-size: 20px;
     padding-top: 10px;
+    color: #818da6;
+    border-left: 1px solid #e5e8ed;
+    padding-left: 20px;
+
 }
 
 .deploy li:hover {
     cursor: pointer;
     color: #221b4e;
+    border-left: 1px solid black;
 }
 
 .deploy .ciao {
-    padding-top: 60px;
+    padding-top: 30px;
     margin-bottom: 30px;
 }
 
 .deploy i {
     color: #0069ff;
+    font-size: 20px;
 }
 
 .deploy .ciao h3 {
