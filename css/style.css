@@ -203,3 +203,23 @@ h1 {
     padding-top: 80px;
     margin-bottom: 60px;
 }
+
+
+.data-center p {
+    text-transform: uppercase;
+    color: white;
+}
+
+.data-center span {
+    color: #8f9ab0;
+}
+
+.data-center a {
+    color: #00d7c5;
+}
+
+.data-center .row-bis {
+    border-bottom: 1px solid #8f9ab0;
+    margin-right: 5px;
+    padding-top: 15px;
+}
