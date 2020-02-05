@@ -369,3 +369,11 @@ footer .contatti a {
 footer .contatti a:hover {
     color: white;
 }
+
+/*-- media query --*/
+
+@media screen and (min-width: 850px) {
+    .navbar-default .navbar-nav>li>a {
+        margin-left: 40px;
+    }
+}
