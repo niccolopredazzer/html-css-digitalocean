@@ -12,7 +12,7 @@ header {
     line-height: 60px;
 }
 
-header ul li:hover {
+.navbar-default .navbar-nav>li>a:hover {
     color: #0069ff;
 }
 
@@ -25,10 +25,17 @@ header .navbar-right button {
     border: 1px solid #0069ff;
 }
 
+header .navbar-right button:hover {
+    background-color: #0069ff;
+    color: white;
+}
+
 header img{
     position: relative;
     top: 10px;
 }
+
+
 
 
 .banner-blu {
