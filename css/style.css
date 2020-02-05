@@ -35,9 +35,6 @@ header img{
     top: 10px;
 }
 
-
-
-
 .banner-blu {
     background-image: url('https://www.digitalocean.com/assets/media/homepage/bg-home-1-d54581d7.jpg');
     background-size: cover;
@@ -65,6 +62,7 @@ h1 {
 .jumbotron {
     background-color: white;
     margin-top: 90px;
+    margin-bottom: 80px;
 }
 
 .jumbotron p {
