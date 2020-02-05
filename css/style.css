@@ -196,6 +196,16 @@ h1 {
     cursor: pointer;
 }
 
+.banner-grigio-secondo span {
+    font-size: 40px;
+    position: relative;
+    top: 270px;
+}
+
+.banner-grigio-secondo span:hover {
+    cursor: pointer;
+}
+
 .business h2 {
     font-size: 36px;
     font-weight: 400;
@@ -299,15 +309,15 @@ h1 {
     cursor: grab;
 }
 
-.development .ms--screen:before {
-    content: attr();
-}
 
 .development span {
     font-size: 40px;
     position: relative;
     top: 140px;
-    color
+}
+
+.development span:hover {
+    cursor: pointer;
 }
 
 .banner-blu .testo-tre h2 {
