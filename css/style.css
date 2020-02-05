@@ -286,7 +286,7 @@ h1 {
 }
 
 .development li  {
-    color: #808794;
+    color: #0069ff;
     padding-top: 50px;
     margin-bottom: 80px;
 }
@@ -297,6 +297,10 @@ h1 {
 
 .development img:hover {
     cursor: grab;
+}
+
+.development .ms--screen:before {
+    content: attr();
 }
 
 .development span {
