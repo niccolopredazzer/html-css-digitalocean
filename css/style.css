@@ -12,7 +12,7 @@ header {
     line-height: 60px;
 }
 
-header li:hover {
+header ul li:hover {
     color: #0069ff;
 }
 
@@ -29,6 +29,7 @@ header img{
     position: relative;
     top: 10px;
 }
+
 
 .banner-blu {
     background-image: url('https://www.digitalocean.com/assets/media/homepage/bg-home-1-d54581d7.jpg');
