@@ -1,9 +1,39 @@
 body {
     font-family: 'Roboto', sans-serif;
 }
+
+header {
+    height: 60px;
+}
+
+.navbar-default .navbar-nav>li>a {
+    color: #031b4e;
+    margin-left: 25px;
+    line-height: 60px;
+}
+
+header li:hover {
+    color: #0069ff;
+}
+
+header .navbar-right button {
+    position: relative;
+    top: 30px;
+    right: 20px;
+    background-color: white;
+    color: #0069ff;
+    border: 1px solid #0069ff;
+}
+
+header img{
+    position: relative;
+    top: 10px;
+}
+
 .banner-blu {
     background-image: url('https://www.digitalocean.com/assets/media/homepage/bg-home-1-d54581d7.jpg');
     background-size: cover;
+    padding-top: 60px;
 }
 
 .testo {
@@ -267,6 +297,7 @@ h1 {
     font-size: 40px;
     position: relative;
     top: 140px;
+    color
 }
 
 .banner-blu .testo-tre h2 {
